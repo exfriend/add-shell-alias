@@ -1,0 +1,24 @@
+{
+  "name": "exfriend/add-shell-alias",
+  "description": "Add a shell alias from PHP",
+  "keywords": [
+    "shell",
+    "bash",
+    "zsh",
+    "fish",
+    "alias"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "exfriend",
+      "email": "i@zlad.tk"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Exfriend\\AddShellAlias\\": "src"
+    }
+  },
+  "require": {}
+}
